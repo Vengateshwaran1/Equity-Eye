@@ -4,7 +4,7 @@ Real-Time Stocks App is a web application that provides live stock market data u
 ### Getting Started
 ```
 git clone https://github.com/Vengateshwaran1/Equity-Eye.git
-cd Fasten-Your-Belt
+cd Equity-Eye
 ```
 
 ### To start the app
